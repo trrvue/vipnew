@@ -47,6 +47,14 @@ body:
     validations:
       required: true
   - type: textarea
+    id: problem-description
+    attributes:
+      label: 问题描述
+      description: 请在此描述遇到的问题。
+      render: text
+    validations:
+      required: true
+  - type: textarea
     id: issues-screenshot
     attributes:
       label: 问题截图/视频
