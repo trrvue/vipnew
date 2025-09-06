@@ -8,7 +8,7 @@
 <a href="https://t.me/HookVipCl"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-频道-blue.svg?logo=telegram"></a>
 <a href="https://t.me/HookVipChat"><img alt="Telegram Channel" src="https://img.shields.io/badge/Telegram-群组-blue.svg?logo=telegram"></a>
 
-<p>用于解锁部分App会员以及添加一些拓展功能的Xposed模块</p>
+<p>用于解锁部分App会员以及添加一些事情能的Xposed模块</p>
 
 <p>
    <b>支持框架 | <a href="https://github.com/LSPosed/LSPosed">LSPosed</a> | <a href="https://github.com/LSPosed/LSPatch">LSPatch</a>
